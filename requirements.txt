@@ -1,0 +1,4 @@
+#gunicorn
+flask
+sentence_transformers
+scikit-learn
