@@ -27,5 +27,5 @@ def api_text():
 
 
 if __name__== '__main__':
-    app.run('0.0.0.0',8000, debug = False)
+    app.run('0.0.0.0',8000, debug = True)
 
